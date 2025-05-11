@@ -1,0 +1,5 @@
+Step 1: Choose a pizza place
+Step 2: Choose what type of pizza you want
+Step 3: Call the pizza place
+Step 4: Order the pizza
+Step 5: Pick up the pizza
